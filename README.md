@@ -1,4 +1,6 @@
 陣營組合分析試做<br/>
-- [X]Apriori
-- [ ]Decision Tree
-- [ ]Neural Network
+-已實現
+ -Apriori
+-預計新增
+ -Decision Tree
+ -Neural Network
