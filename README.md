@@ -1,4 +1,4 @@
 陣營組合分析試做<br/>
-[] Apriori
+  [] Apriori
 [] Decision Tree
 [] Neural Network
